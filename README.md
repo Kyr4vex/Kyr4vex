@@ -50,24 +50,20 @@
 <br>
 
 <div align="center">
-  <h3>Contact me</h3>
-  <h4>
-    Discord: <a href="https://discord.com/users/1519438448174436415">kyr4vex</a>
-  </h4>
-  <h5><i>I USE ONLY DISCORD</i></h5>
+  <b>Contact me</b><br>
+  Discord: <a href="https://discord.com/users/1519438448174436415">kyr4vex</a><br>
+  <i>I USE ONLY DISCORD</i>
 </div>
 
 <br>
 
 <div align="center">
-  <h3>Support me</h3>
-  <h4>
-    Crypto:<br>
-    Toncoin / Gram: <code>UQAOKWnQybUj5BHDpNMsAIDXjv344ujH89f7ftVrYTgCbDTM</code><br>
-    Ethereum: <code>0x817d5cF93167387E7e5b24b4D9c8cE4e3953affD</code><br>
-    Litecoin: <code>LXi5BgyJrE1GBc6KeUGZ75CNMYgtxwiZSA</code><br>
-    USDC: <code>0x817d5cF93167387E7e5b24b4D9c8cE4e3953affD</code>
-  </h4>
+  <b>Support me</b><br>
+  Crypto:<br>
+  Toncoin / Gram: <code>UQAOKWnQybUj5BHDpNMsAIDXjv344ujH89f7ftVrYTgCbDTM</code><br>
+  Ethereum: <code>0x817d5cF93167387E7e5b24b4D9c8cE4e3953affD</code><br>
+  Litecoin: <code>LXi5BgyJrE1GBc6KeUGZ75CNMYgtxwiZSA</code><br>
+  USDC: <code>0x817d5cF93167387E7e5b24b4D9c8cE4e3953affD</code>
 </div>
 
 <br>
