@@ -12,50 +12,67 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 </p>
 
-<h4 style="font-style: italic;" align="center">
-I really enjoy C++ and Lua/Luau<br>
-I'm also learning cryptography<br>
-My dream is working in big team and getting paid<br>
-🛠︎ 2-3 Years Luau Exp. / Self-Taugh 🛠︎</h4>
-<div align ="center">
-<p style="display: inline-block;" align="center">
-   <kbd>
-    <kbd>Languages & Development</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://skillicons.dev/icons?i=lua" />
-    <img width="30px" src="https://skillicons.dev/icons?i=cpp"/>
-    <img width="30px" src="https://skillicons.dev/icons?i=robloxstudio"/> 
-    <img width="30px" src="https://skillicons.dev/icons?i=python"/> 
-  </kbd>
-  <kbd>
-    <kbd>Web</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://skillicons.dev/icons?i=html" /> 
-    <img width="30px" src="https://skillicons.dev/icons?i=js" /> 
-  </kbd>
-  <kbd>
-    <kbd>Tools & Systems</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"/>
-    <img width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> 
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
-  </kbd>
-</div>
-<div>
-<h3 align="center" style="margin: 0;">Contact me</h3>
-<h4 align="center" style="margin: 0;">Discord: <a href="https://discord.com/users/1519438448174436415">kyr4vex</a></h4>
-<h5 align="center" style="margin: 0; font-style: italic">I USE ONLY DISCORD<h5>
-</div>
-<h3 align="center" style="margin: 0;">Support me</h3>
-<h4 align="center" style="margin: 0;">Crypto: <br>
-Toncoin / Gram : <code>UQAOKWnQybUj5BHDpNMsAIDXjv344ujH89f7ftVrYTgCbDTM</code><br>
-Ethereum : <code>0x817d5cF93167387E7e5b24b4D9c8cE4e3953affD</code><br>
-Litecoin : <code>LXi5BgyJrE1GBc6KeUGZ75CNMYgtxwiZSA</code><br>
-USDC : <code>0x817d5cF93167387E7e5b24b4D9c8cE4e3953affD</code>
+<h4 align="center"><i>
+  I really enjoy C++ and Lua/Luau<br>
+  I'm also learning cryptography<br>
+  My dream is working in a big team and getting paid<br>
+  🛠︎ 2-3 Years Luau Exp. / Self-Taught 🛠︎
+</i></h4>
 
-<h5 align="center" style="margin: 7px; font-style: italic">
-“When a programmer first writes his code, only he and God know how it works. A few months later, only God knows.” - Martin Fowler
-</h5>
+<br>
+
+<div align="center">
+  <p align="center">
+    <kbd>
+      <kbd>Languages & Development</kbd>
+      <br><br>
+      <img width="30px" src="https://skillicons.dev/icons?i=lua">
+      <img width="30px" src="https://skillicons.dev/icons?i=cpp">
+      <img width="30px" src="https://skillicons.dev/icons?i=robloxstudio">
+      <img width="30px" src="https://skillicons.dev/icons?i=python">
+    </kbd>
+    <kbd>
+      <kbd>Web</kbd>
+      <br><br>
+      <img width="30px" src="https://skillicons.dev/icons?i=html">
+      <img width="30px" src="https://skillicons.dev/icons?i=js">
+    </kbd>
+    <kbd>
+      <kbd>Tools & Systems</kbd>
+      <br><br>
+      <img width="30px" src="https://skillicons.dev/icons?i=docker">
+      <img width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+      <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+    </kbd>
+  </p>
+</div>
+
+<br>
+
+<div align="center">
+  <h3>Contact me</h3>
+  <h4>
+    Discord: <a href="https://discord.com/users/1519438448174436415">kyr4vex</a>
+  </h4>
+  <h5><i>I USE ONLY DISCORD</i></h5>
+</div>
+
+<br>
+
+<div align="center">
+  <h3>Support me</h3>
+  <h4>
+    Crypto:<br>
+    Toncoin / Gram: <code>UQAOKWnQybUj5BHDpNMsAIDXjv344ujH89f7ftVrYTgCbDTM</code><br>
+    Ethereum: <code>0x817d5cF93167387E7e5b24b4D9c8cE4e3953affD</code><br>
+    Litecoin: <code>LXi5BgyJrE1GBc6KeUGZ75CNMYgtxwiZSA</code><br>
+    USDC: <code>0x817d5cF93167387E7e5b24b4D9c8cE4e3953affD</code>
+  </h4>
+</div>
+
+<br>
+
+<h5 align="center"><i>
+  “When a programmer first writes his code, only he and God know how it works.
+  A few months later, only God knows.” - Martin Fowler
+</i></h5>
