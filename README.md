@@ -26,6 +26,7 @@ My dream is working in big team and getting paid<br>
     <img width="30px" src="https://skillicons.dev/icons?i=lua" />
     <img width="30px" src="https://skillicons.dev/icons?i=cpp"/>
     <img width="30px" src="https://skillicons.dev/icons?i=robloxstudio"/> 
+    <img width="30px" src="https://skillicons.dev/icons?i=python"/> 
   </kbd>
   <kbd>
     <kbd>Web</kbd>
