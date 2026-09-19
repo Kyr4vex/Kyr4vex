@@ -5,6 +5,12 @@
 
 <h3 align="center">Programmer | Lua / Luau Developer</h3>
 
+<p align='center'>
+<a href="https://github.com/Kyr4vex?tab=repositories"><img src="https://img.shields.io/github/stars/Kyr4vex?style=flat&logo=github&label=Total%20Stars&color=teal"/></a>
+<a href="https://discord.com/users/1519438448174436415"><img src="https://img.shields.io/badge/Discord-Kyr4vex-5865F2?logo=discord&logoColor=white"/></a>
+<a href="https://www.youtube.com/@Kyr4vex"><img src="https://img.shields.io/badge/YouTube-Kyr4vex-FF0000?logo=youtube&logoColor=white"/></a>
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Luau-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
   <img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white">
