@@ -70,6 +70,7 @@
   Ethereum: <code>0x817d5cF93167387E7e5b24b4D9c8cE4e3953affD</code><br>
   Litecoin: <code>LXi5BgyJrE1GBc6KeUGZ75CNMYgtxwiZSA</code><br>
   USDC: <code>0x817d5cF93167387E7e5b24b4D9c8cE4e3953affD</code>
+  <b>If you want to see my private projects check my youtube</b>
 </div>
 
 <br>
