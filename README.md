@@ -64,9 +64,6 @@
 <br>
 
 <div align="center">
-  <b>My favourite works:</b><br>
-  <a href="https://github.com/Kyr4vex/predictive-bullet-path">Predictive bullet path</a><br>
-  <a href="https://github.com/Kyr4vex/roblox-ball-movement">Roblox ball movement</a><br>
   <b>If you want to see my private projects check my youtube</b><br><br>
   <b>Support me</b><br>
   Crypto:<br>
