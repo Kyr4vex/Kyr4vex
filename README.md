@@ -64,16 +64,16 @@
 <br>
 
 <div align="center">
+  <b>My favourite works:</b><br>
+  <a href="https://github.com/Kyr4vex/predictive-bullet-path">Predictive bullet path</a><br>
+  <a href="https://github.com/Kyr4vex/roblox-ball-movement">Roblox ball movement</a><br>
+  <b>If you want to see my private projects check my youtube</b><br><br>
   <b>Support me</b><br>
   Crypto:<br>
   Toncoin / Gram: <code>UQAOKWnQybUj5BHDpNMsAIDXjv344ujH89f7ftVrYTgCbDTM</code><br>
   Ethereum: <code>0x817d5cF93167387E7e5b24b4D9c8cE4e3953affD</code><br>
   Litecoin: <code>LXi5BgyJrE1GBc6KeUGZ75CNMYgtxwiZSA</code><br>
   USDC: <code>0x817d5cF93167387E7e5b24b4D9c8cE4e3953affD</code><br>
-  <b>My favourite works:</b><br>
-  <a href="https://github.com/Kyr4vex/predictive-bullet-path">Predictive bullet path</a><br>
-  <a href="https://github.com/Kyr4vex/roblox-ball-movement">Roblox ball movement</a><br>
-  <b>If you want to see my private projects check my youtube</b>
 </div>
 
 <br>
